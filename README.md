@@ -1,5 +1,7 @@
 # abapGit webfont generator package
 
+**!!! Project moved to https://github.com/abapGit/icon-font !!!**
+
 ## Build
 
 ```
