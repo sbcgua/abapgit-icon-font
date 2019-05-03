@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/sbcgua/abapgit-icon-font.svg?branch=master)](https://travis-ci.com/sbcgua/abapgit-icon-font)
+[![Build Status](https://travis-ci.com/sbcgua/abapgit-icon-font.svg?branch=master)](https://travis-ci.com/sbcgua/abapgit-icon-font) [![Greenkeeper badge](https://badges.greenkeeper.io/sbcgua/abapgit-icon-font.svg)](https://greenkeeper.io/)
 
 # abapGit webfont generator package
 
